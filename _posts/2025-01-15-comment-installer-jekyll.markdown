@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-01-14 11:48:20 +0100
-categories: jekyll update
+title:  "Comment installer Jekyll et l'utiliser sur Github pages ?"
+date:   2025-01-15 11:32:20 +0100
+categories: jekyll github pages
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
