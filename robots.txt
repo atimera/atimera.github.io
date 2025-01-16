@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.amdiatou.fr/sitemap.xmlhttps://www.amdiatou.fr/sitemap.xml
